@@ -4,6 +4,7 @@ node_modules/
 
 # Production build folder
 /build
+/dist
 
 # Logs
 npm-debug.log*
@@ -29,3 +30,6 @@ pnpm-debug.log*
 
 # Optional Mac files
 .DS_Store
+
+# Vite
+.vite/
